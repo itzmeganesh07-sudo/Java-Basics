@@ -8,6 +8,6 @@ public class main{
                 i++;                                     
         }
     }
-}/* the syntax of while loop is while(condition){
+}/* the syntax of while loop is while(expression){ boolean expression like true or false.
                    do something                                    
                              } */
